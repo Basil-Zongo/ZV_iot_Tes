@@ -1,0 +1,4 @@
+pymongo
+paho-mqtt
+certifi
+dnspython
